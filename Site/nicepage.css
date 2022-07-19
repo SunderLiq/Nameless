@@ -37416,10 +37416,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-btn-4 {
+  letter-spacing: 1px;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 1px;
-  background-image: none;
   margin: 0;
   padding: 10px 84px 10px 83px;
 }
